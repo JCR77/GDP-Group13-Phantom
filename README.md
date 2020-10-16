@@ -21,6 +21,12 @@
 - Inventroy: All - Dominic
 - Level Assets: Some - Jack
 
+## Gameplay Documentation Video
+- https://www.youtube.com/watch?v=6kHLJvS-SU8
+
+## Code Documentation Video
+- https://www.youtube.com/watch?v=jljUfVKEp3c
+
 ## Assets Used
 - Animation Starter Pack: https://www.unrealengine.com/marketplace/en-US/product/animation-starter-pack
 - Military Weapons Dark: https://www.unrealengine.com/marketplace/en-US/product/military-weapons-dark

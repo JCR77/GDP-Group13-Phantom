@@ -18,7 +18,7 @@
 - AI: All - Jack
 - Weapons: Most - Jack, Some - Dominic
 - Inventroy: All - Dominic
--Level Assets: Some - Jack
+- Level Assets: Some - Jack
 
 ## Assets Used
 - Animation Starter Pack: https://www.unrealengine.com/marketplace/en-US/product/animation-starter-pack

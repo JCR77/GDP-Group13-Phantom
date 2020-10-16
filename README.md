@@ -16,6 +16,7 @@
 ## Code Involvement
 - Character Systems: All - Jack
 - AI: All - Jack
+- Stealth Systems: All - Jack
 - Weapons: Most - Jack, Some - Dominic
 - Inventroy: All - Dominic
 - Level Assets: Some - Jack
